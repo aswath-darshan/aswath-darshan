@@ -33,7 +33,7 @@ I'm a Computer Science undergrad passionate about the intersection of **Machine 
 
 [![Email](https://img.shields.io/badge/Email-aswathdarshan2007@gmail.com-blue?style=flat&logo=gmail)](mailto:aswathdarshan2007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aswath--darshan-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aswathdarshan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aswathdarshan-portfolio.com-black?style=flat&logo=vercel)](https://aswath-darshan.github.io/portfolio.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aswathdarshan.com-black?style=flat&logo=vercel)](https://aswath-darshan.github.io/portfolio.io/)
 
 ---
 
